@@ -1,12 +1,12 @@
 RAIZED CYBER — NMAP AUTOMATION
 
-RAIZED CYBER Nmap Automation is a Python-based network reconnaissance and security assessment utility designed to simplify, standardize, and automate authorized Nmap scanning workflows.
+R - CYBER Nmap Automation is a Python-based network reconnaissance and security assessment utility designed to simplify, standardize, and automate authorized Nmap scanning workflows.
 
 The project transforms complex Nmap command selection into a structured, operator-controlled interface containing 100 predefined scanning profiles, organized into Simple, Medium, and Aggressive assessment levels.
 
 The tool was created to help security practitioners and learners perform repeatable reconnaissance without manually constructing lengthy Nmap commands for every assessment. Each profile represents a specific scanning methodology, including host discovery, TCP and UDP port scanning, service and version detection, operating-system identification, NSE-based enumeration, web-service assessment, infrastructure enumeration, and authorized vulnerability discovery.
 
-A key design principle of RAIZED CYBER is operator visibility and control. The tool does not silently execute a selected scan. The operator first selects a profile and provides the target. RAIZED CYBER then displays the scan name, assessment category, target, and exact Nmap command that will be executed. The operator must explicitly confirm the operation before Nmap is launched.
+A key design principle of R-CYBER is operator visibility and control. The tool does not silently execute a selected scan. The operator first selects a profile and provides the target. RAIZED CYBER then displays the scan name, assessment category, target, and exact Nmap command that will be executed. The operator must explicitly confirm the operation before Nmap is launched.
 
 Scan results are automatically organized into timestamped directories, with both TXT and XML output generated for subsequent analysis, documentation, automation, and security reporting.
 
