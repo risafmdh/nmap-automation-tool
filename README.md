@@ -55,13 +55,13 @@ Analyze Results
 
 Project Objective
 
-The long-term objective of RAIZED CYBER Nmap Automation is to provide a foundation for a modular security-assessment platform capable of expanding into automated result parsing, asset identification, vulnerability correlation, reporting, scan history, target management, and integration with additional security tools.
+The long-term objective of R-CYBER Nmap Automation is to provide a foundation for a modular security-assessment platform capable of expanding into automated result parsing, asset identification, vulnerability correlation, reporting, scan history, target management, and integration with additional security tools.
 
-RAIZED CYBER Nmap Automation — Structured reconnaissance. Controlled execution. Actionable security intelligence.
+R-CYBER Nmap Automation — Structured reconnaissance. Controlled execution. Actionable security intelligence.
 
 ⚠️ Authorized Use
 
-Do not use RAIZED CYBER Nmap Automation without permission.
+Do not use R-CYBER Nmap Automation without permission.
 
 Only scan systems and networks that you own or have explicit authorization to test, including approved laboratories, CTF environments, internal infrastructure, or authorized bug-bounty targets.
 
