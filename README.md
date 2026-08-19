@@ -1,4 +1,4 @@
-RAIZED CYBER — NMAP AUTOMATION
+R - CYBER — NMAP AUTOMATION
 
 R - CYBER Nmap Automation is a Python-based network reconnaissance and security assessment utility designed to simplify, standardize, and automate authorized Nmap scanning workflows.
 
